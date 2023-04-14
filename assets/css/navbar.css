@@ -1,0 +1,113 @@
+@import url(/web_mtarma/assets/css/style.css?=2.3);
+body {
+  padding-bottom: 20px;
+  
+}
+.navbar {
+  background-color: var(--white-color);
+  margin-bottom: 20px;
+}
+
+.logotipo {
+  height: 50px;
+  padding-inline-end: 10px;
+  
+}
+
+.navbar-nav .nav-link{
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color:var(--primary-color);
+  padding-top: 10px;
+  padding-bottom: 0;
+  
+}
+.navbar-nav .nav-link:hover{
+  color: rgb(90, 90, 90);
+  display: block;
+}
+
+
+.navbar-toggler{
+  border: 0;
+  background-color: var(--white-color);
+  color: var(--white-color);
+}
+
+
+.font-h5 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.tog-color {
+  color: var(--primary-color);
+  padding-top: 10px;
+  scale: 1.2;
+  background-color: var(--white-color);
+  border: 0;
+}
+/* mega menu */
+
+.dropdown-mega .dropdown-menu{
+  width: 100%;
+  margin: -1px;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, .125);
+  border-radius: 10;
+  
+
+}
+
+.dropdown-mega .h5{
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
+  margin: 0;
+  
+}
+
+.group {
+  padding-bottom: 4px;
+  border-bottom: 1.7px solid rgba(0, 0, 0, .125);
+  color: var(--primary-color);
+}
+
+.dropdown-mega .list-group-item {
+  color: var(--black-color);
+  padding: 2px 0;
+  font-size: 14px;
+  border: 0;
+  
+}
+
+.dropdown-mega .list-group-item:hover {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* Dropdown */
+
+.drop-mex {
+  padding-top: 20px;
+  padding-bottom: 20px;
+    
+
+}
+.mex {
+  padding: 2px 24px;
+  
+} 
+
+.dropdown-item {
+  font-size: 14.7px;
+  padding: 2px 24px;
+  
+  
+} 
+
+.dropdown-item:hover {
+  background-color: white;
+  font-weight: 600;
+} 
+

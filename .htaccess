@@ -1,0 +1,8 @@
+RewriteEngine on
+ErrorDocument 404 /web_mtarma/views/errores/404.php
+RewriteRule ^/?$ views/index.php
+
+RewriteRule ^views/pages/$ views/errores/403.php
+
+RewriteRule ^municipalidad$ views/pages/municipalidad.php
+RewriteRule ^cas$ views/pages/cas.php

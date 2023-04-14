@@ -1,0 +1,14 @@
+@import url(/web_mtarma/assets/css/header_pag.css?=2.0);
+
+.bg_pag {
+    background: url('/web_mtarma/assets/img/bg/catedral.jpg');
+    padding-top: 15px;
+    background-position-y:center;
+}
+
+@media (min-width: 280px) {
+  .bg_pag {
+    background-size: cover;
+  }
+}
+

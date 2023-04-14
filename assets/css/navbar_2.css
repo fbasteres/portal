@@ -1,0 +1,161 @@
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+
+body {
+  padding-top: 56px;
+}
+
+
+.navbar {
+  background-color: var(--white-color);
+  margin-bottom: 20px;
+}
+
+.logotipo {
+  height: 50px;
+  padding-inline-end: 10px;
+}
+
+.navbar-nav .nav-link{
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  color:var(--primary-color);
+  padding-top: 10px;
+  padding-bottom: 0;
+  
+}
+.navbar-nav .nav-link:hover{
+  color: var(--secondary-color);
+  
+}
+
+
+
+.navbar-toggler{
+  border: 0;
+  background-color: var(--white-color);
+  color: var(--white-color);
+}
+
+.ico { 
+  border: 0;
+  background-color: var(--white-color);
+  color: var(--white-color);
+}
+.font-h5 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.tog-color {
+  color: var(--primary-color);
+}
+/* mega menu */
+
+.dropdown-mega .dropdown-menu{
+  width: 100%;
+  margin: -1px;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, .125);
+  border-radius: 10;
+}
+
+
+.dropdown-mega .h5{
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
+  margin: 0;
+  
+}
+
+.group {
+  padding-bottom: 4px;
+  border-bottom: 1.7px solid rgba(0, 0, 0, .125);
+  color: var(--primary-color);
+}
+
+.dropdown-mega .list-group-item {
+  color: var(--black-color);
+  padding: 2px 0;
+  font-size: 14px;
+  border: 0;
+  
+}
+
+.dropdown-mega .list-group-item:hover {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* Dropdown */
+
+.drop-mex {
+  padding-top: 20px;
+  padding-bottom: 20px;
+    
+
+}
+.mex {
+  padding: 2px 24px;
+  color: var(--primary-color);
+} 
+
+.dropdown-item {
+  font-size: 14.7px;
+  padding: 2px 24px;
+  
+  
+} 
+.dropdown-item:hover {
+  color: var(--primary-color);
+  background-color: white;
+  font-weight: 600;
+} 
+
+
+@media (max-width: 991.98px) {
+  .offcanvas-collapse {
+    position: fixed;
+    top: 75px; /* Height of navbar */
+    bottom: 0;
+    left: 100%;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    overflow-y: auto;
+    visibility: hidden;
+    background-color: var(--white-color);
+    border-top: 1.7px solid rgba(0, 0, 0, .125);
+    transition: transform .3s ease-in-out, visibility .3s ease-in-out;
+  }
+  .offcanvas-collapse.open {
+    visibility: visible;
+    transform: translateX(-100%);
+  }
+}
+
+.nav-scroller .nav {
+  color: rgba(255, 255, 255, .75);
+}
+
+.nav-scroller .nav-link {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  font-size: .875rem;
+  color: #6c757d;
+}
+
+.nav-scroller .nav-link:hover {
+  color: #007bff;
+}
+
+.nav-scroller .active {
+  font-weight: 500;
+  color: #343a40;
+}
+
+
+
