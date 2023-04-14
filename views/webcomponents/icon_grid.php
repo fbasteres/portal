@@ -64,15 +64,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="#" class="link-ico">
-                    <div class="col d-flex align-items-start">
-                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/personas.svg" alt="Bootstrap" width="55" height="55">
-                        <div>
-                            <h3 class="fw-bold mb-1 fs-5">Licencias de Funcionamiento lima</h3>
-                            <p class="ico-p">Matrimonio civil, partidas y otros.</p>
-                        </div>
-                    </div>
-                </a>
+                
             </div>
         </div>
   </body>
