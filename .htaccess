@@ -1,6 +1,6 @@
 RewriteEngine on
-ErrorDocument 404 /portal/views/errores/404.php
-RewriteRule ^/?$ public/index.php
+ErrorDocument 404 /views/errores/404.php
+RewriteRule ^/?$ views/index.php
 
 RewriteRule ^views/pages/$ views/errores/403.php
 
