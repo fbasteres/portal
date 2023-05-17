@@ -1,7 +1,7 @@
 
     <head>
     <!-- Custom styles for this template -->
-    <link href="<?php url();?>/assets/css/features.css" rel="stylesheet">
+    <link href="<?php require_once __DIR__.'/../../public/assets/css/features.css';?>" rel="stylesheet">
     </head>
   <body>
         <br>
@@ -12,7 +12,7 @@
             <div class="row row-cols-1 row-cols-sm-5 row-cols-md-3 row-cols-lg-3  py-4">
                 <a href="#" class="link-ico">
                     <div class="col d-flex align-items-start">
-                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/carta.svg" alt="Bootstrap" width="55" height="55">
+                        <img  class="ico-mpt me-3" src="<?php include_once __DIR__.'/../../public/assets/img/tramites/carta.svg';?>" alt="Bootstrap" width="55" height="55">
                         <div>
                             <h3 class="fw-bold mb-1 fs-5">Sistema de Control Interno</h3>
                             <p class="ico-p">Normado por la Contraloria General de la República.</p>
@@ -59,7 +59,7 @@
                     <div class="col d-flex align-items-start">
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/personas.svg" alt="Bootstrap" width="55" height="55">
                         <div>
-                            <h3 class="fw-bold mb-1 fs-5">Asuntos Civiles</h3>
+                            <h3 class="fw-bold mb-1 fs-5">Asuntos Civiles tARMA</h3>
                             <p class="ico-p">Matrimonio civil, partidas y otros.</p>
                         </div>
                     </div>

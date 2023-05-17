@@ -1,6 +1,6 @@
 RewriteEngine on
 ErrorDocument 404 /web_mtarma/views/errores/404.php
-RewriteRule ^/?$ views/index.php
+RewriteRule ^/?$ public/index.php
 
 RewriteRule ^views/pages/$ views/errores/403.php
 

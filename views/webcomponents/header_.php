@@ -1,10 +1,10 @@
 <head>
     <!-- Custom styles -->
-    <link rel="stylesheet" href="<?php url();?>/assets/css/navbar_2.css?=v1.3">
+    <link rel="stylesheet" href="<?php url();?>/public/assets/css/navbar_2.css?=v1.3">
 </head>
     <nav class="navbar navbar-expand-lg fixed-top shadow" aria-label="Main navigation">
     <div class="container gutter">
-    <a class="navbar-brand" href="<?php url();?>"><img class="logotipo" src="<?php url();?>/assets/img/logos/logo_web.svg" alt=""></a>
+    <a class="navbar-brand" href="<?php url();?>"><img class="logotipo" src="<?php url();?>/public/assets/img/logos/logo_web.svg" alt=""></a>
         <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
         <i class="fas fa-stream tog-color"></i>
         </button>

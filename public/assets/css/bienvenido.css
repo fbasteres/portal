@@ -3,14 +3,14 @@
   }
 
 .bg_bienvenido {
-    background: url('/web_mtarma/assets/img/bg/semana_santa_2.jpg');
+    background: url('/web_mtarma/public/assets/img/bg/sm.jpg');
     padding-top: 15px;
-    background-position-y:bottom;
+    background-position-y:center;
     
     
 }
 .fond {
-    background: linear-gradient(90deg,var(--semana-santa) 20%,rgba(17,54,128,.2) 80%);
+    background: linear-gradient(90deg,var(--primary-color) 20%,rgba(17,54,128,.2) 80%);
     padding-top: 150px;
     padding-bottom: 130px;
  }
