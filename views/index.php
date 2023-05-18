@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Municipalidad Provincial de Tarma</title>
     <link rel="stylesheet" href="<?php url();?>/assets/css/main.css?=v1.1">
-    <link rel="stylesheet" href="node_modules/fontawesome_6.3.0/css/all.min.css">
+    <link rel="stylesheet" href="<?php url();?>/node_modules/fontawesome_6.3.0/css/all.min.css">
     <link rel="stylesheet" href="<?php url();?>/assets/css/style.css?=v1.6">
 </head>
 <body>
@@ -34,7 +34,7 @@
      ?>
   </footer>
 
-  <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php url();?>/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 

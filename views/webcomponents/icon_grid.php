@@ -21,7 +21,7 @@
                 </a>
                 <a href="#" class="link-ico">
                     <div class="col d-flex align-items-start ">
-                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/documento.svg" alt="MuniTarma" width="55" height="55">
+                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/agro.svg" alt="MuniTarma" width="55" height="55">
                         <div class="ico-text">
                             <h3 class="fw-bold mb-1 fs-5">Tributos Municipales</h3>
                             <p class="ico-p"> Arbitrios, Derechos y Licencias y Contribuciones.</p>
