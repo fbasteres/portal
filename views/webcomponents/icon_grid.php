@@ -1,28 +1,28 @@
 
     <head>
     <!-- Custom styles for this template -->
-    <link href="<?php require_once __DIR__.'/../../public/assets/css/features.css';?>" rel="stylesheet">
+    <link href="<?php url();?>/assets/css/features.css?=v1.2" rel="stylesheet">
     </head>
   <body>
         <br>
         <br>
-        <div class="container gutter" id="icon-grid">
+        <div class="container gutter sub_cat" id="icon-grid">
             <h2 class="fs-4">Trámites y servicios más visitados</h2>
             <hr class="">
             <div class="row row-cols-1 row-cols-sm-5 row-cols-md-3 row-cols-lg-3  py-4">
                 <a href="#" class="link-ico">
                     <div class="col d-flex align-items-start">
-                        <img  class="ico-mpt me-3" src="<?php include_once __DIR__.'/../../public/assets/img/tramites/carta.svg';?>" alt="Bootstrap" width="55" height="55">
-                        <div>
+                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/carta.svg" alt="Bootstrap" width="55" height="55">
+                        <div class="ico_tramites">
                             <h3 class="fw-bold mb-1 fs-5">Sistema de Control Interno</h3>
                             <p class="ico-p">Normado por la Contraloria General de la República.</p>
                         </div>
                     </div>
                 </a>
                 <a href="#" class="link-ico">
-                    <div class="col d-flex align-items-start">
-                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/documento.svg" alt="Bootstrap" width="55" height="55">
-                        <div>
+                    <div class="col d-flex align-items-start ">
+                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/documento.svg" alt="MuniTarma" width="55" height="55">
+                        <div class="ico-text">
                             <h3 class="fw-bold mb-1 fs-5">Tributos Municipales</h3>
                             <p class="ico-p"> Arbitrios, Derechos y Licencias y Contribuciones.</p>
                         </div>
@@ -32,7 +32,7 @@
                     <div class="col d-flex align-items-start">
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/hogar_2.svg" alt="Bootstrap" width="55" height="55">
                         <div>
-                            <h3 class="fw-bold mb-1 fs-5">Trabaja con nosotros lima</h3>
+                            <h3 class="fw-bold mb-1 fs-5">Trabaja con nosotros</h3>
                             <p class="ico-p">Licencias de Funcionamiento, licencias de edificación y otros.</p>
                         </div>
                     </div>

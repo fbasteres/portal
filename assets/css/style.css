@@ -1,4 +1,4 @@
-@import url(/web_mtarma/public/assets/css/font.css?=1.2);
+@import url(/portal/assets/css/font.css?=1.2);
 :root {
     /* bg color */
     --primary-color:#004481;
@@ -12,7 +12,7 @@
     --cel-bbva:#17a2b8;
     --celeste-gestion:#3363cc;
     --gris-color:#f0f0f0;
-    --gris-text: #121212;
+    --gris-text: #484848;
     --semana-santa:#390096;
     
 }
@@ -55,12 +55,10 @@ h2 {
   color: #0056AC;
   background-color: #f3fdff;
 }
- /* botones */
- 
-.btn-gestion-primario {
-  border: 0;
-}
-.btn-gestion-primario:hover {
-  background-color: #1893ff;
 
+
+/* subtitulo categoria*/
+
+.sub_cat>h2 {
+  color: var(--gris-text);
 }

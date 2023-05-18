@@ -1,13 +1,13 @@
 
 <head>
     <!-- Custom styles -->
-    <link href="<?php url(); ?>/public/assets/css/navbar.css?v=4.2" rel="stylesheet">
+    <link href="<?php url(); ?>/assets/css/navbar.css?v=4.2" rel="stylesheet">
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-lg fixed-top shadow " aria-label="Offcanvas navbar large">
             <div class="container gutter">
-              <a class="navbar-brand" href="<?php url(); ?>"><img class="logotipo" src="<?php url(); ?>/public/assets/img/logos/logo_web.svg" alt=""></a>
+              <a class="navbar-brand" href="<?php url(); ?>"><img class="logotipo" src="<?php url(); ?>/assets/img/logos/logo_web.svg" alt=""></a>
               <button class="navbar-toggler"  data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2">
                 <i class="fas fa-stream tog-color"></i>
             </button>
