@@ -7,7 +7,7 @@
     <header>
         <nav class="navbar navbar-expand-lg fixed-top shadow " aria-label="Offcanvas navbar large">
             <div class="container gutter">
-              <a class="navbar-brand" href="<?php url(); ?>"><img class="logotipo" src="<?php url(); ?>/assets/img/logos/logo_web.svg" alt=""></a>
+              <a class="navbar-brand" href="/"><img class="logotipo" src="<?php url(); ?>/assets/img/logos/logo_web.svg" alt=""></a>
               <button class="navbar-toggler"  data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2">
                 <i class="fas fa-stream tog-color"></i>
             </button>
@@ -21,7 +21,7 @@
                 <div class="offcanvas-body gutter">
                   <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                     <li class="nav-item">
-                     <a class="nav-link" aria-current="page" href="<?php url();?>">Inicio</a>
+                     <a class="nav-link" aria-current="page" href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
                      <a class="nav-link" href="municipalidad">Municipalidad</a>
