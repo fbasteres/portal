@@ -33,7 +33,7 @@
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/hogar_2.svg" alt="Bootstrap" width="55" height="55">
                         <div>
                             <h3 class="fw-bold mb-1 fs-5">Trabaja con nosotros</h3>
-                            <p class="ico-p">Licencias de Funcionamiento, licencias de edificación y otros.</p>
+                            <p class="ico-p">Asume el reto de ser parte de la Municipalidad Provincial.</p>
                         </div>
                     </div>
                 </a>
@@ -41,7 +41,7 @@
                     <div class="col d-flex align-items-start">
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/personas.svg" alt="Bootstrap" width="55" height="55">
                         <div>
-                            <h3 class="fw-bold mb-1 fs-5">Participación vecinal</h3>
+                            <h3 class="fw-bold mb-1 fs-5">Participación vecinal_Maquina</h3>
                             <p class="ico-p">Presupuesto Participativo, CCLP.</p>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                     <div class="col d-flex align-items-start">
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/personas.svg" alt="Bootstrap" width="55" height="55">
                         <div>
-                            <h3 class="fw-bold mb-1 fs-5">Asuntos Civiles tARMA</h3>
+                            <h3 class="fw-bold mb-1 fs-5">Asuntos Civiles</h3>
                             <p class="ico-p">Matrimonio civil, partidas y otros.</p>
                         </div>
                     </div>
