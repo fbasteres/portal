@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/munitarmagob/public_html/portal/
+    - export DEPLOYPATH=/home3/nqoguhqx/public_html/portal/
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R funciones $DEPLOYPATH
     - /bin/cp -R node_modules $DEPLOYPATH

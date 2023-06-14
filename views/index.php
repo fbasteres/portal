@@ -30,7 +30,7 @@
   </div>
   <footer>
      <?php 
-      
+      include __DIR__ . '/../views/webcomponents/footer.php';
      ?>
   </footer>
 
