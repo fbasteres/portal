@@ -27,7 +27,7 @@
         <h6 class="fw-semibold">Enlaces internos</h6>
         <ul class="nav flex-column">
           <li class="nav-item "><a href="https://huamantay.yachay.pe:2096/" class="nav-link p-0 text-muted" target="_blank">WebMail</a></li>
-          <li class="nav-item "><a href="#" class="nav-link p-0 text-muted">Nuevos usuarios</a></li>
+          <li class="nav-item "><a href="https://www.gob.pe/institucion/munitarma/informes-publicaciones/3563341-formatos-de-sistemas-para-el-servidor-publico" class="nav-link p-0 text-muted">Nuevos usuarios</a></li>
         </ul>
       </div>
 
