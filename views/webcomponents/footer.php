@@ -26,7 +26,7 @@
       <div class="col-6 col-md-2 mb-3">
         <h6 class="fw-semibold">Enlaces internos</h6>
         <ul class="nav flex-column">
-          <li class="nav-item "><a href="https://huamantay.yachay.pe:2096/" class="nav-link p-0 text-muted" target="_blank">WebMail</a></li>
+          <li class="nav-item "><a href="https://munitarma.gob.pe/webmail" class="nav-link p-0 text-muted" target="_blank">WebMail</a></li>
           <li class="nav-item "><a href="https://www.gob.pe/institucion/munitarma/informes-publicaciones/3563341-formatos-de-sistemas-para-el-servidor-publico" class="nav-link p-0 text-muted">Nuevos usuarios</a></li>
         </ul>
       </div>
@@ -54,7 +54,7 @@
     <br>
     <br>
     <div class="d-flex flex-column flex-sm-row justify-content-between pt-2 border-top">
-      <p>&copy; 2023 Municipalidad Provincial de Tarma, Inc. Todos los derechos reservados. Versión 1.2 @ Desarrollo por Fernando Ramirez </p>
+      <p>&copy; 2023 Municipalidad Provincial de Tarma, Inc. Todos los derechos reservados. Versión 1.2 @ Desarrollado e implementado por Informática</p>
       <ul class="list-unstyled d-flex">
         <li class="ms-3"><a class="link-dark" href="#"></li>
         <li class="ms-3"><a class="link-dark" href="#"></li>
