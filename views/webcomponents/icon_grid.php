@@ -30,7 +30,7 @@
                 </a>
                 <a href="cas" class="link-ico" tipo="button">
                     <div class="col d-flex align-items-start">
-                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/hogar_2.svg" alt="Bootstrap" width="55" height="55">
+                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/busqueda.svg" alt="Bootstrap" width="55" height="55">
                         <div>
                             <h3 class="fw-bold mb-1 fs-5">Trabaja con nosotros</h3>
                             <p class="ico-p">Asume el reto de ser parte de la Municipalidad Provincial.</p>
@@ -55,7 +55,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="#" class="link-ico">
+                <a href="https://reclamos.servicios.gob.pe/" class="link-ico">
                     <div class="col d-flex align-items-start">
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/reclamos.svg" alt="Bootstrap" width="55" height="55">
                         <div>
