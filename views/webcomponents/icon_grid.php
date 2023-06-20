@@ -55,7 +55,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="https://reclamos.servicios.gob.pe/" class="link-ico">
+                <a href="https://reclamos.servicios.gob.pe/" class="link-ico" target="_blank">
                     <div class="col d-flex align-items-start">
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/reclamos.svg" alt="Bootstrap" width="55" height="55">
                         <div>
