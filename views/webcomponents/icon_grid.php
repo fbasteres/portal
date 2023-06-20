@@ -57,10 +57,10 @@
                 </a>
                 <a href="#" class="link-ico">
                     <div class="col d-flex align-items-start">
-                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/personas.svg" alt="Bootstrap" width="55" height="55">
+                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/reclamos.svg" alt="Bootstrap" width="55" height="55">
                         <div>
-                            <h3 class="fw-bold mb-1 fs-5">Asuntos Civiles</h3>
-                            <p class="ico-p">Matrimonio civil, partidas y otros.</p>
+                            <h3 class="fw-bold mb-1 fs-5">Libro de Reclamaciones</h3>
+                            <p class="ico-p"><b>Digital</b> | Decreto Supremo N°007-2020-PCM</p>
                         </div>
                     </div>
                 </a>

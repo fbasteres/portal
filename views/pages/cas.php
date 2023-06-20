@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="<?php url();?>/node_modules/fontawesome_6.3.0/css/all.min.css">
     <link rel="stylesheet" href="<?php url();?>/assets/css/style.css?=v1.5">
     <link rel="stylesheet" href="<?php url();?>/assets/css/cas.css">
+    
 </head>
 <header>
     <?php
