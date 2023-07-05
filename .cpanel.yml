@@ -1,6 +1,9 @@
 ---
 deployment:
   tasks:
+    - export DEPLOYPATH=/home3/nqoguhqx/public_html/
+    - /bin/cp .htaccess $DEPLOYPATH
+
     - export DEPLOYPATH=/home3/nqoguhqx/public_html/portal/
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R funciones $DEPLOYPATH

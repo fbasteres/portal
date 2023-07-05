@@ -1,10 +1,10 @@
 RewriteEngine on
-ErrorDocument 404 /views/errores/404.php
-RewriteRule ^/?$ views/index.php
+ErrorDocument 404 /portal/views/errores/404.php
+RewriteRule ^/?$ portal/views/index.php
 
-RewriteRule ^views/pages/$ views/errores/403.php
-RewriteRule ^municipalidad$ views/pages/municipalidad.php
-RewriteRule ^cas$ views/pages/cas.php
+RewriteRule ^views/pages/$ portal/views/errores/403.php
+RewriteRule ^municipalidad$ portal/views/pages/municipalidad.php
+RewriteRule ^cas$ portal/views/pages/cas.php
 
 #Lienas de codigo para cpanel
 #RewriteEngine on
