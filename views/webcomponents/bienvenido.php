@@ -9,9 +9,13 @@
               <div class="row align-items-center">
               
               <div class="bienvenido_container col-lg-6">
-                  <p><i class="fa-solid fa-cross"></i><b> &nbsp  Festividad del</b></p>
-                  <h1 class="display-5">Señor de Muruhuay</h1>
-                  <p class="">Patrimonio Cultural de la Nación</p>
+                  <p><b>Primera audiencia pública </b> | Gestión 2023 - 2026</p>
+                  <h1 class="display-5">Rendición de cuentas</h1>
+                  <p class="pt-0">Aprobado con Ordenanza Municipal N°017-2023-CMT</p>
+                  <br>
+                  <a  href="https://facilita.gob.pe/t/5358" target="_blank" class="href-button">
+                     <button class="btn btn-gs-aqua px-4 fw-semibold" style="color:white;"><i class="fa-regular fa-pen-to-square"></i>&nbsp &nbsp Ingresar pregunta</button>
+                  </a>
               </div>
               </div>
           </div>
