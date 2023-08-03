@@ -71,7 +71,7 @@
                 <h5 class="h4-documento pt-2">Bases de convocatoria</h5>
                 <p class="text-muted">CAS 001-2023-CEE/MPT.</p>
                 <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/CAS_001-2023-MPT,.pdf" target="_blank" class="href-button">
-                  <button class="btn btn-mpt-primary fw-semibold " type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
+                  <button class="btn btn- fw-semibold " type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
                 </a>
               </div>
             </div>
