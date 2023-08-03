@@ -24,7 +24,7 @@
                      <a class="nav-link" aria-current="page" href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
-                     <a class="nav-link" href="municipalidad">Municipalidad d</a>
+                     <a class="nav-link" href="municipalidad">Municipalidad</a>
                     </li>
                     <li class="nav-item dropdown dropdown-mega position-static">
                      <a href="#" class="nav-link" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
