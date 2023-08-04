@@ -56,9 +56,30 @@ h2 {
   background-color: #f3fdff;
 }
 
+.sp-finalizado {
+  color: #ae1400;
+  background-color: #ffd7d5;
+}
 
 /* subtitulo categoria*/
 
 .sub_cat>h2 {
   color: var(--gris-text);
+}
+
+/*botones colores*/
+
+.bt-primary{
+  background-color: #dee8fc;
+  color: #02366a;
+}
+
+.bt-primary:hover{
+  background-color: #c6d7fd;
+  color: #02366a;
+}
+
+.bt-primary:active>a{
+  background-color: #c6d7fd;
+  color: #02366a;
 }

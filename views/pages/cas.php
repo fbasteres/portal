@@ -48,100 +48,124 @@
             Tarma, 15 de marzo de 2023
         </p>
     </div>
-      <main>
-        <div class="container py-4">
-          <header class="mb-4">
-              <h3 class="fw-bold h3-cas">Documentos</h3><hr>
-          </header>
+        <br>
+        <div class="container">
+
           <div class="row align-items-md-stretch">
-              
             <div class="col-md-4 mb-4">
-              <div class="h-100 p-4 bg-secondary-subtle border rounded-3 shadow">
-                <h5 class="h4-documento">Anexos</h5>
+              <div class="car">
+                <h5>Anexos</h5>
                 <p class="text-muted">Descarga los anexos y rellena correctamente.</p>
-                <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/anexos_2023.pdf" target="_blank" class="href-button">
-                    <button class="btn btn-mpt-primary fw-semibold" type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
+                <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/anexos_2023.pdf" target="_blank">
+                    <button class="btn bt-primary fw-semibold px-4" type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
+                </a>
+              </div>
+
+              <div class="car mt-3">
+                <h5>Comunicados</h5>
+                <p class="text-muted">Convocatoria no disponible</p>
+                <a >
+                    <button class="btn bt-primary fw-semibold px-4 disabled" > <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Ningún Archivo</button>
                 </a>
               </div>
             </div>
             
-            <div class="col-md-4 mb-4">
-              <div class="h-100 p-4 bg-secondary-subtle border rounded-3 shadow">
-                <span class="badge rounded-pill" style="color: #3d4053;background-color: #e9eaea;">Finalizado</span>
-                <h5 class="h4-documento pt-2">Bases de convocatoria</h5>
-                <p class="text-muted">CAS 001-2023-CEE/MPT.</p>
-                <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/CAS_001-2023-MPT,.pdf" target="_blank" class="href-button">
-                  <button class="btn btn- fw-semibold " type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
-                </a>
-              </div>
-            </div>
             
-            <div class="col-md-4 mb-4">
-              <div class="h-100 p-4 bg-secondary-subtle border rounded-3 shadow">
-                <h5 class="h4-documento">Comunicado
-                </h5>
-                <p class="text-muted"><b>Reprogramación de horario.</b><br>CAS 001-2023-CEE/MPT.</p>
-                <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/comunicado_cas-2023.pdf" target="_blank" class="href-button">
-                  <button class="btn btn-mpt-primary fw-semibold " type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
-                </a>
+            <div class="col-md-8">
+              <div class=" p-4 bg-body rounded car-list">
+              <h6 class="border-bottom pb-2 mb-0 fw-bold">Convocatorias anteriores</h6>
+              <div class="d-flex text-muted pt-4">
+                <div class="car-icon">
+                <i class="fa-regular fa-folder-open"></i>
+                </div>
+                <div class="pb-3 mb-0 small lh-sm border-bottom w-100 ">
+                  <div class="d-flex justify-content-between car-des">
+                    <strong class="text-gray-dark">Bases de convocatoria</strong>
+                    <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/CAS_001-2023-MPT,.pdf" target="__FILE__">Descargar</a>
+                  </div>
+                  <span class="d-block">CAS 001-2023-CEE/MPT.</span>
+                </div>
               </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="container py-4">
-          <header class="mb-4">
-              <h3 class="fw-bold h3-cas">Resultados</h3><hr>
-          </header>
-          <div class="row align-items-md-stretch">
+
+              <div class="d-flex text-muted pt-3">
+                <div class="car-icon">
+                <i class="fa-regular fa-folder-open"></i>
+                </div>
+                <div class="pb-3 mb-0 small lh-sm border-bottom w-100 ">
+                  <div class="d-flex justify-content-between car-des">
+                    <strong class="text-gray-dark">Resultados | Evaluación de CV</strong>
+                    <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/rst_pre_1_2023.pdf" target="__FILE__">Descargar</a>
+                  </div>
+                  <span class="d-block">CAS 001-2023-CEE/MPT.</span>
+                </div>
+              </div>
               
-            <div class="col-md-4 mb-4">
-              <div class="h-100 p-4 bg-secondary-subtle border rounded-3 shadow">
-                <span class="badge rounded-pill " style="color: #126b49;background-color: #c9f0d8;">Reciente</span>
-                <h5 class="h4-documento pt-2">Comunicado</h5>
-                <p class="text-muted"><b>Reprogramación de horario.</b><br>CAS 001-2023-CEE/MPT</p>
-                <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/com_cas_2023.pdf" target="_blank" class="href-button">
-                  <button class="btn btn-mpt-primary fw-semibold " type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
-                </a>
+              <div class="d-flex text-muted pt-3">
+                <div class="car-icon">
+                <i class="fa-regular fa-folder-open"></i>
+                </div>
+                <div class="pb-3 mb-0 small lh-sm border-bottom w-100 ">
+                  <div class="d-flex justify-content-between car-des">
+                    <strong class="text-gray-dark">Resultados | Examen de conocimientos</strong>
+                    <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/rst_pre_2_2023.pdf" target="__FILE__">Descargar</a>
+                  </div>
+                  <span class="d-block">CAS 001-2023-CEE/MPT.</span>
+                </div>
               </div>
-            </div>
-            
-            <div class="col-md-4 mb-4">
-              <div class="h-100 p-4 bg-secondary-subtle border rounded-3 shadow">
-                <span class="badge rounded-pill " style="color: #126b49;background-color: #c9f0d8;">Reciente</span>
-                <h5 class="h4-documento pt-2">Resultados preliminares </h5>
-                <p class="text-muted"><b>Evaluación de Currículum Vitae.</b><br>CAS 001-2023-CEE/MPT</p>
-                <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/rst_pre_1_2023.pdf" target="_blank" class="href-button">
-                    <button class="btn btn-mpt-primary fw-semibold" type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
-                </a>
+
+              <div class="d-flex text-muted pt-3">
+                <div class="car-icon">
+                <i class="fa-regular fa-folder-open"></i>
+                </div>
+                <div class="pb-3 mb-0 small lh-sm  w-100 ">
+                  <div class="d-flex justify-content-between car-des">
+                    <strong class="text-gray-dark">Resultados | Final</strong>
+                    <a href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/rst_final_2023.pdf" target="__FILE__">Descargar</a>
+                  </div>
+                  <span class="d-block">CAS 001-2023-CEE/MPT.</span>
+                </div>
               </div>
-            </div>
+              
+            </div>  
+              
             
-            <div class="col-md-4 mb-4">
-              <div class="h-100 p-4 bg-secondary-subtle border rounded-3 shadow">
-                <span class="badge rounded-pill " style="color: #126b49;background-color: #c9f0d8;">Reciente</span>
-                <h5 class="h4-documento pt-2">Resultados preliminares</h5>
-                <p class="text-muted"><b>Examen de conocimientos.</b><br>CAS 001-2023-CEE/MPT</p>
-                <a  href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/rst_pre_2_2023.pdf" target="_blank" class="href-button">
-                  <button class="btn btn-mpt-primary fw-semibold" type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
-                </a>
-              </div>
             </div>
-            
-            <div class="col-md-4 mb-4">
-              <div class="h-100 p-4 bg-secondary-subtle border rounded-3 shadow">
-                <span class="badge rounded-pill" style="color: #331980;background-color: #c2b1f5;">Nuevo</span>
-                <h5 class="h4-documento pt-2">Resultado Final</h5>
-                <p class="text-muted">CAS 001-2023-CEE/MPT</p>
-                <a  href="https://www.cdn.munitarma.gob.pe/files/pdf/convocatoria/cas/2023/rst_final_2023.pdf" target="_blank" class="href-button">
-                  <button class="btn btn-mpt-primary fw-semibold" type="button"> <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Descargar</button>
-                </a>
-              </div>
-            </div>
-            
           </div>
         </div>
 
-<script src="<?php url(); ?>/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    
+
+        
+        <div class="container py-4 mt-5">
+          <header class="mb-4">
+              <h3 class="fw-bold h3-cas">Convocatorias</h3><hr>
+          </header>
+          <div class="row align-items-md-stretch">
+              
+          <div class="col-md-4 mb-4">
+              <div class="car">
+                <h5>Bases de convocatoria</h5>
+                <p class="text-muted">Convocatoria no disponible</p>
+                <a >
+                    <button class="btn bt-primary fw-semibold px-4 disabled" > <i class="fa-solid fa-circle-arrow-down"></i>&nbsp &nbsp Ningún Archivo</button>
+                </a>
+              </div>
+          </div>
+            
+            
+            
+          </div>
+          
+        </div>
+
+        
+
+        <footer>
+     <?php 
+      include '../webcomponents/footer.php';
+     ?>
+  </footer>
+
+        <script src="<?php url(); ?>/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
