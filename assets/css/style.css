@@ -1,4 +1,4 @@
-@import url(/portal/assets/css/font.css?=1.2);
+@import url(/portal/assets/css/font.css?=2.1);
 :root {
     /* bg color */
     --primary-color:#004481;
@@ -18,6 +18,11 @@
 }
 body {
   font-family: Raleway;
+  background-color: var(--bs-background-MPT);
+}
+hr {
+  color: #02366a;
+  opacity: 40%;
 }
 
 @media screen and (max-width:600px){
@@ -83,3 +88,98 @@ h2 {
   background-color: #c6d7fd;
   color: #02366a;
 }
+
+/*tarjetas diseño nuevo*/
+.car {
+  /*border: 1px solid var(--bs-cc-primary);*/
+  background-color: var(--bs-white);
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15) !important;
+  border-radius: 0.5rem;
+  transition: all .3s;
+  padding: 1.4rem;
+}
+
+.car-list {
+  /*border: 1px solid var(--bs-cc-primary);*/
+  background-color: var(--bs-white);
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15) !important;
+  border-radius: 0.5rem;
+  transition: all .3s;
+  padding: 1.4rem;
+}
+.car>h5 {
+  font-weight: 700;
+}
+
+.car>p {
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.car>a {
+  color: var(--bs-cc-primary);
+}
+
+.car-des>a{
+  color: var(--bs-cc-primary);
+  text-decoration: none;
+}
+
+.car-des>a:hover{
+  font-weight: 600;
+}
+.car:hover {
+  box-shadow: 0.3rem 0.7rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.car-icon {
+  align-items: center;
+  justify-content: center;
+  display: inline-flex!important;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+
+}
+
+.car-icon>i {
+  font-size: 1rem;
+}
+
+
+.car-2 {
+  /*border: 1px solid var(--bs-cc-primary);*/
+  background-color: var(--bs-white);
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15) !important;
+  border-radius: 0.5rem;
+  transition: all .3s;
+  padding: 1.2rem;
+}
+.car-2:hover {
+  box-shadow: 0.3rem 0.7rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.car-2>ul>li>h5 {
+  color: var(--bs-cc-primary);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.car-2>p {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.car-2>ul {
+  align-items: start;
+}
+.car-2-icon {
+  align-items: center;
+  justify-content: center;
+  display: inline-flex!important;
+  width: 1.9rem;
+  height: 1.9rem;
+  border-radius: 0.4rem;
+}
+
+/*/tarjetas diseño nuevo*/
+

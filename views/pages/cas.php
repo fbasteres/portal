@@ -75,7 +75,7 @@
               <div class=" p-4 bg-body rounded car-list">
               <h6 class="border-bottom pb-2 mb-0 fw-bold">Convocatorias anteriores</h6>
               <div class="d-flex text-muted pt-4">
-                <div class="car-icon">
+                <div class="car-icon sp-finalizado">
                 <i class="fa-regular fa-folder-open"></i>
                 </div>
                 <div class="pb-3 mb-0 small lh-sm border-bottom w-100 ">
@@ -88,7 +88,7 @@
               </div>
 
               <div class="d-flex text-muted pt-3">
-                <div class="car-icon">
+                <div class="car-icon sp-finalizado">
                 <i class="fa-regular fa-folder-open"></i>
                 </div>
                 <div class="pb-3 mb-0 small lh-sm border-bottom w-100 ">
@@ -101,7 +101,7 @@
               </div>
               
               <div class="d-flex text-muted pt-3">
-                <div class="car-icon">
+                <div class="car-icon sp-finalizado">
                 <i class="fa-regular fa-folder-open"></i>
                 </div>
                 <div class="pb-3 mb-0 small lh-sm border-bottom w-100 ">
@@ -114,7 +114,7 @@
               </div>
 
               <div class="d-flex text-muted pt-3">
-                <div class="car-icon">
+                <div class="car-icon sp-finalizado">
                 <i class="fa-regular fa-folder-open"></i>
                 </div>
                 <div class="pb-3 mb-0 small lh-sm  w-100 ">

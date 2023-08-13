@@ -1,8 +1,5 @@
 @import url(/portal/assets/css/style.css?=2.3);
-body {
-  padding-bottom: 20px;
-  
-}
+
 .navbar {
   background-color: var(--white-color);
   margin-bottom: 20px;

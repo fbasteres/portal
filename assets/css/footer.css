@@ -2,3 +2,34 @@ section {
     height: 500px;
     width: 500px;
 }
+
+.footer {
+    color: var(--bs-cc-text);
+    background-color: var(--bs-background-MPT);
+    opacity: 85%;
+}
+
+.footer-items>h6 {
+    font-weight: 700;
+    color: var(--bs-cc-primary);
+}
+
+.footer-items>ul {
+    font-weight: 400;
+}
+
+.footer-items>p {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+.navv{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    color: var(--bs-cc-text);
+}
+
+.footer-items>ul>li:hover {
+    font-weight: 600;
+}
+

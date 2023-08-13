@@ -11,8 +11,12 @@
 }
 .fond {
     background: linear-gradient(90deg,var(--primary-color) 20%,rgba(17,54,128,.2) 80%);
-    padding-top: 150px;
-    padding-bottom: 130px;
+    height: 100vh; 
+    background-position: center; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: flex-start; 
  }
 
 

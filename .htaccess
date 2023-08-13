@@ -5,6 +5,7 @@ RewriteRule ^/?$ views/index.php
 RewriteRule ^views/pages/$ views/errores/403.php
 RewriteRule ^municipalidad$ views/pages/municipalidad.php
 RewriteRule ^cas$ views/pages/cas.php
+RewriteRule ^normas-institucionales$ views/pages/normas_institucionales.php
 
 #Lienas de codigo para cpanel
 #RewriteEngine on

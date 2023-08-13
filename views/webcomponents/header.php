@@ -1,7 +1,7 @@
 
 <head>
     <!-- Custom styles -->
-    <link href="<?php url(); ?>/assets/css/navbar.css?v=4.2" rel="stylesheet">
+    <link href="<?php url(); ?>/assets/css/navbar.css?v=4.3" rel="stylesheet">
 </head>
 <body>
     <header>

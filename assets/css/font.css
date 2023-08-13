@@ -2,4 +2,9 @@
     font-family: 'Raleway';
     src: url('/portal/assets/fonts/raleway/Raleway-VariableFont_wght.ttf') format('truetype');
     font-display: swap;
+
+    font-family: 'Work-Sans';
+    src: url('/portal/assets/fonts/worksans/WorkSans-VariableFont_wght.ttf') format('truetype');
+    font-display: swap;
+
 }

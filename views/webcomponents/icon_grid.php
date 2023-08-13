@@ -46,7 +46,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="#" class="link-ico">
+                <a href="normas-institucionales" class="link-ico">
                     <div class="col d-flex align-items-start">
                         <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/personas.svg" alt="Bootstrap" width="55" height="55">
                         <div>

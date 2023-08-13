@@ -1,6 +1,6 @@
   <head>    
     <!-- Custom styles for this template -->
-    <link href="<?php url();?>/assets/css/bienvenido.css?v=4.7" rel="stylesheet">
+    <link href="<?php url();?>/assets/css/bienvenido.css?v=4.8" rel="stylesheet">
   </head>
   <body>
     <div class="bg_bienvenido">

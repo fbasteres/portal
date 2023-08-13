@@ -1,7 +1,7 @@
 @import url(/portal/assets/css/header_pag.css?=2.0);
 
 .bg_pag {
-    background: url('/portal/assets/img/bg/catedral.jpg');
+    background: url('/portal/assets/img/bg/normas.jpg');
     padding-top: 15px;
     background-position-y:center;
 }
@@ -11,5 +11,3 @@
     background-size: cover;
   }
 }
-
-
