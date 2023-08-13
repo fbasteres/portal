@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <!-- Custom styles -->
-    <link rel="stylesheet" href="<?php url();?>assets/css/footer.css?v=2.2">
+    <link rel="stylesheet" href="<?php url();?>/assets/css/footer.css?v=2.2">
 </head>
 <body>
 <div class="footer pt-5">
