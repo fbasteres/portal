@@ -10,7 +10,7 @@
     <title>Municipalidad Provincial de Tarma</title>
     <link rel="stylesheet" href="<?php url();?>/assets/css/main.css?=v1.1">
     <link rel="stylesheet" href="<?php url();?>/node_modules/fontawesome_6.3.0/css/all.min.css">
-    <link rel="stylesheet" href="<?php url();?>/assets/css/style.css?=v1.6">
+    <link rel="stylesheet" href="<?php url();?>/assets/css/style.css">
 </head>
 <body>
   <header>

@@ -1,4 +1,4 @@
-@import url(/portal/assets/css/font.css?=2.1);
+@import url(/portal/assets/css/font.css?=1.0.0);
 :root {
     /* bg color */
     --primary-color:#004481;
@@ -17,7 +17,7 @@
     
 }
 body {
-  font-family: Raleway;
+  font-family: 'Raleway';
   background-color: var(--bs-background-MPT);
 }
 hr {
