@@ -10,6 +10,7 @@
     --gris:#f0f0f0;
     --color-gestion: #ffc107;
     --cel-bbva:#17a2b8;
+    --cel-bbva-os:#279aac;
     --celeste-gestion:#3363cc;
     --gris-color:#f0f0f0;
     --gris-text: #484848;
@@ -89,6 +90,17 @@ h2 {
   color: #02366a;
 }
 
+
+.btn-mpt-primary {
+  color: var(--bs-white);
+  background-color: var(--cel-bbva);
+}
+
+.btn-mpt-primary:hover {
+  color: var(--bs-white);
+  background-color: var(--cel-bbva-os);
+}
+
 /*tarjetas diseño nuevo*/
 .car {
   /*border: 1px solid var(--bs-cc-primary);*/
@@ -154,7 +166,7 @@ h2 {
   box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15) !important;
   border-radius: 0.5rem;
   transition: all .3s;
-  padding: 1.2rem;
+  padding: 1.1rem;
 }
 .car-2:hover {
   box-shadow: 0.3rem 0.7rem 1rem rgba(0, 0, 0, 0.15) !important;

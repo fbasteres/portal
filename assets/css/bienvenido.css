@@ -3,20 +3,17 @@
   }
 
 .bg_bienvenido {
-    background: url('/portal/assets/img/bg/mirador_t.jpg');
+    background: url('/portal/assets/img/bg/alc_1.jpg');
     padding-top: 15px;
     background-position-y:center;
-    
+    background-position-x:center;
     
 }
 .fond {
-    background: linear-gradient(90deg,var(--primary-color) 20%,rgba(17,54,128,.2) 80%);
-    height: 100vh; 
-    background-position: center; 
-    display: flex; 
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: flex-start; 
+    background: linear-gradient(90deg,rgba(0,68,129,.9) 0%,rgba(0,68,129,.9) 80%);
+    padding-top: 12em;
+    padding-bottom: 7em;
+   
  }
 
 
@@ -42,6 +39,7 @@
   }
 }
 
+
 .normas>a{
   text-decoration: none;
   color: var(--white-color);
@@ -50,6 +48,6 @@
 
 .normas>a:hover{
   text-decoration: none;
-  color: var(--bs-gs-secondary);
+  color: var(--color-gestion);
   
 }

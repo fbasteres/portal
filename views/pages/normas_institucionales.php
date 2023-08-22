@@ -48,7 +48,7 @@
                                 <i class="car-2-icon sp-atendido fa-solid fa-arrow-up-right-from-square"></i>
                                 </li>
                             </ul>
-                            <p class="text-muted">Son decisiones que toma el concejo, referidas a asuntos específicos de interés público, vecinal...</p>
+                            <p class="text-muted">Son decisiones que toma el concejo, referidas a asuntos específicos de interés público.</p>
                         </div>
                     </a>
                 </div>
@@ -78,7 +78,7 @@
                                 <i class="car-2-icon sp-atendido fa-solid fa-arrow-up-right-from-square"></i>
                                 </li>
                             </ul>
-                            <p class="text-muted">Es un tipo de norma jurídica, que se incluye dentro de los reglamentos, y que se caracteriza por estar...</p>
+                            <p class="text-muted">Es un tipo de norma jurídica, que se incluye dentro de los reglamentos, y que se...</p>
                         </div>
                     </a>
                 </div>
@@ -108,7 +108,7 @@
                                 <i class="car-2-icon sp-atendido fa-solid fa-arrow-up-right-from-square"></i>
                                 </li>
                             </ul>
-                            <p class="text-muted">Documento que establecen aspectos técnicos y operativos en materias específicas en aplicación de disposiciones legales...</p>
+                            <p class="text-muted">Documento que establecen aspectos técnicos y operativos en materias específicas en aplicación...</p>
                         </div>
                     </a>
                 </div>

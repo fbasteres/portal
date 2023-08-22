@@ -28,6 +28,11 @@
       include __DIR__ . '/../views/webcomponents/icon_grid.php';
      ?>
   </div>
+  <div>
+     <?php 
+      include __DIR__ . '/../views/webcomponents/prueba.php';
+     ?>
+  </div>
   <footer>
      <?php 
       include __DIR__ . '/../views/webcomponents/footer.php';

@@ -4,15 +4,15 @@
   }
 
 .fond_pag{
-    background: linear-gradient(90deg,var(--primary-color) 40%,rgba(17,54,128,.3) 80%);
-    padding-top: 100px;
-    padding-bottom: 30px;
+    background: linear-gradient(90deg,rgba(0,68,129,.9) 0%,rgba(0,68,129,.9) 80%);
+    padding-top: 7rem;
+    padding-bottom: 1rem;
  }
 
 
 .pag_container>p{
   color: var(--white-color);
-  font-size: 14px;
+  font-size: 0.8rem;
 }
 
 .des-pag {
@@ -21,7 +21,7 @@
 
 .pag_container>h4 {
   color: var(--white-color);
-  font-weight: 700;
+  font-weight: 800;
 }
 
 

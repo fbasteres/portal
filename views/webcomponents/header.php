@@ -148,7 +148,7 @@
                         Servicios en linea <i class="fa-sharp fa-solid fa-angle-down"></i>
                 </a>
                     <ul class="dropdown-menu drop-mex shadow">
-                        <h5 class="font-h5 mex">Gobernanza Digital</h5>
+                        <h5 class="font-h5 mex">Gobierno Digital</h5>
                             <hr class="dropdown-divider">
                         <li><a class="dropdown-item" href="https://facilita.gob.pe/seguimiento" target="_blank">Seguimiento de Trámite</a></li>
                         <li><a class="dropdown-item" href="https://facilita.gob.pe/t/1748" target="_blank">Mesa de Partes Digital</a></li>

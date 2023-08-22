@@ -48,7 +48,7 @@
                 </a>
                 <a href="normas-institucionales" class="link-ico">
                     <div class="col d-flex align-items-start">
-                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/personas.svg" alt="Bootstrap" width="55" height="55">
+                        <img  class="ico-mpt me-3" src="<?php url();?>/assets/img/tramites/tramite.svg" alt="Bootstrap" width="55" height="55">
                         <div>
                             <h3 class="fw-bold mb-1 fs-5">Normas Institucionales</h3>
                             <p class="ico-p">Decretos de Alcaldía, Resoluciones, Ordenanzas y otros.</p>
