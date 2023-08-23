@@ -14,7 +14,7 @@
                   <p class="pt-0 normas">Aprobado con <a href="" target="_blank">Decreto de Alcaldía N°012-2023-ALC/MPT &nbsp<i class="fa-solid fa-up-right-from-square"></i></a></p>
                   <br>
                   <a href="https://cdn.munitarma.gob.pe/files/pdf/rendicion_cuentas/RC_2023.pdf" target="_blank" class="href-button">
-                     <button class="btn btn-mpt-primary px-4 fw-semibold"><i class="fa-solid fa-circle-down"></i>&nbsp &nbsp Ingresar Pregunta</button>
+                     <button class="btn btn-mpt-primary px-4 fw-semibold"><i class="fa-solid fa-comments"></i>&nbsp &nbsp Ingresar Pregunta</button>
                   </a>
               </div>
               </div>

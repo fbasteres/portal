@@ -40,7 +40,66 @@ h2 {
   font-weight: 700;
 }
 
+/* inicio estandar */
 
+.card-img1{
+  background-image: url(/portal/assets/img/otros/negritos.jpg);
+  background-position: center;
+  background-size: cover;
+  flex-direction: column !important;
+  height: 100% !important;
+  border-radius: 0.8rem;
+}
+.card-img2{
+  background-image: url(/portal/assets/img/otros/evn.jpg);
+  background-position: center;
+  background-size: cover;
+  flex-direction: column !important;
+  height: 100% !important;
+  border-radius: 0.8rem;
+}
+.card-img3{
+  background-image: url(/portal/assets/img/otros/obras.jpg);
+  background-position: center;
+  background-size: cover;
+  flex-direction: column !important;
+  height: 100% !important;
+  border-radius: 0.8rem;
+}
+
+.card-body-mpt {
+  background: linear-gradient(180deg,rgba(22, 109, 186, 0),rgb(6, 48, 85) 88%); 
+  flex-direction: column !important;
+  border-radius: 0.8rem;
+  display: flex;
+  padding: 3rem;
+  padding-bottom: 1rem;
+  height: 100% !important;
+}
+
+
+
+.card-body-mpt>h3 {
+  color: var(--bs-white);
+  font-weight: 700;
+  font-size: 2.5rem;
+  padding-top: 3rem;
+  margin-top: 3rem;
+  
+}
+.card-body-mpt>p {
+  color: var(--bs-white);
+  font-weight: 500;
+  font-size: 1rem;
+  margin-bottom: 4rem;
+}
+
+
+
+
+
+
+/* Fin estandar */
 /*badge*/
 .sp-nuevo {
   color: #331980;
