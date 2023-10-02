@@ -13,8 +13,8 @@
                   <h1 class="display-5">Rendición de cuentas</h1>
                   <p class="pt-0 normas">Aprobado con <a href="" target="_blank">Decreto de Alcaldía N°013-2023-ALC/MPT &nbsp<i class="fa-solid fa-up-right-from-square"></i></a></p>
                   <br>
-                  <a href="https://facilita.gob.pe/t/5726" target="_blank" class="href-button">
-                     <button class="btn btn-mpt-primary px-4 fw-semibold"><i class="fa-solid fa-comments"></i>&nbsp &nbsp Ingresar Pregunta</button>
+                  <a href="https://www.cdn.munitarma.gob.pe/files/pdf/rendicion_cuentas/2da_Audiencia.pdf" target="_blank" class="href-button">
+                     <button class="btn btn-mpt-primary px-4 fw-semibold"><i class="fa-solid fa-cloud-arrow-down"></i>&nbsp &nbsp Descargar diapositivas</button>
                   </a>
               </div>
               </div>
